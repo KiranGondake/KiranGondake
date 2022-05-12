@@ -1,0 +1,1 @@
+sqlite3 RestPOS.db ".recover" | sqlite3 RestPOSNew.db
